@@ -7,10 +7,13 @@
 - 레포지토리에 관련해서 질문은 Issue로 남겨주시길 바랍니다.
 
 ## Contributors
+<a href="https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yanJuicy/Question-Answer-Archive-Hanghae" />
+</a>
 
 
 ## How to Contriubte
 내용을 작성하신 뒤 다음과 같이 파일을 만들어 PR을 보내주세요.
 - [언어(Spring, Java, DB, Web, ...)]/[질문 제목]/README.md
-- ex) Spring/Spring, SpringBoot 차이/README.md
+- `ex) Spring/SpringBoot와 Spring 차이/README.md`
 
