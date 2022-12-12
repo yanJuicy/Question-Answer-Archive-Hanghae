@@ -31,3 +31,6 @@
 - Spring
   - [Jackson, ArgumentResolver의 차이](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/Jackson%EA%B3%BC%20ArgumentReolver%EC%9D%98%20%EC%B0%A8%EC%9D%B4)
   - [응답 Dto에 Object와 Generice 중 어떤게 좋은가](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/%EC%9D%91%EB%8B%B5%20Dto%EC%97%90%20Object%EC%99%80%20Generice%20%EC%A4%91%20%EC%96%B4%EB%96%A4%EA%B2%8C%20%EC%A2%8B%EC%9D%80%EA%B0%80)
+  
+- Java
+  - [Object 클래스를 extends 하는 시점](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/blob/main/Java/Object%20%ED%81%B4%EB%9E%98%EC%8A%A4%20extends%20%EC%8B%9C%EC%A0%90/README.md)
