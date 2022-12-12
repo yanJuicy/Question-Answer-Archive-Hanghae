@@ -12,7 +12,7 @@
 </a>
 
 
-## How to Contriubte
+## How to Contriubute
 1. 내용을 작성하신 뒤 다음과 같이 파일을 만들어 PR을 보내주세요.
     - [언어(Spring, Java, DB, Web, ...)]/[질문 제목]/README.md
     - `ex) Spring/SpringBoot와 Spring 차이/README.md`
