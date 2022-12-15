@@ -32,7 +32,6 @@
   - [Jackson, ArgumentResolver의 차이](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/Jackson%EA%B3%BC%20ArgumentReolver%EC%9D%98%20%EC%B0%A8%EC%9D%B4)
   - [응답 Dto에 Object와 Generice 중 어떤게 좋은가](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/%EC%9D%91%EB%8B%B5%20Dto%EC%97%90%20Object%EC%99%80%20Generice%20%EC%A4%91%20%EC%96%B4%EB%96%A4%EA%B2%8C%20%EC%A2%8B%EC%9D%80%EA%B0%80)
   - [JSON 직렬화 순환참조 해결](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/JSON%20%EC%A7%81%EB%A0%AC%ED%99%94%20%EC%B0%B8%EC%A1%B0%EC%88%9C%ED%99%98%20%ED%95%B4%EA%B2%B0)
-  - [프론트랑 협업할 때 SSR을 사용하는가](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/%ED%94%84%EB%A1%A0%ED%8A%B8%EB%9E%91%20%ED%98%91%EC%97%85%ED%95%A0%20%EB%95%8C%20SSR%EC%9D%84%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80)
   - [프론트랑 같이 협업할 때 SSR을 같이 사용하는 경우가 있나요?](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/%ED%94%84%EB%A1%A0%ED%8A%B8%EB%9E%91%20%ED%98%91%EC%97%85%20%ED%95%A0%EB%95%8C%EB%8F%84%20SSR%EC%9D%84%20%EC%93%B0%EB%8A%94%EA%B0%80%3F)
 
 
