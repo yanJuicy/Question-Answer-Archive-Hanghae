@@ -41,3 +41,4 @@
   
 - DB
   - [Repeatable Read에서 Phantom Read를 해결하는 방법](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/DB/Repeatable%20Read%EC%97%90%EC%84%9C%20Phantom%20Read%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95)
+  - [CAP 이론의 3가지 특성](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/DB/CAP%20%EC%9D%B4%EB%A1%A0%EC%9D%98%203%EA%B0%80%EC%A7%80%20%ED%8A%B9%EC%84%B1)
