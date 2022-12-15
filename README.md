@@ -39,6 +39,8 @@
 
 - Java
   - [Object 클래스를 extends 하는 시점](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/blob/main/Java/Object%20%ED%81%B4%EB%9E%98%EC%8A%A4%20extends%20%EC%8B%9C%EC%A0%90/README.md)
+  - [Junit 공부법](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Java/Junit%20%EA%B3%B5%EB%B6%80%EB%B2%95)
+  
   
 - DB
   - [Repeatable Read에서 Phantom Read를 해결하는 방법](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/DB/Repeatable%20Read%EC%97%90%EC%84%9C%20Phantom%20Read%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95)
