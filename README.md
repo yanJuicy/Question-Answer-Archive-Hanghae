@@ -14,7 +14,8 @@
 
 ## How to Contriubute
 1. 내용을 작성하신 뒤 다음과 같이 파일을 만들어 PR을 보내주세요.
-    - 언어(Spring, Java, DB, Web, ...)/[질문 제목]/README.md
+    - 기술스택(Spring, Node, React, Java, DB, Web, ...)/[질문 제목]/README.md
+    - 기술스택은 영어로 작성해주시고 첫 글자는 대문자로 작성해주세요.
     - `ex) Spring/SpringBoot와 Spring 차이/README.md`
     - 커밋 메시지 작성 가이드는 다음과 같습니다.
       - 날짜(년-월-일) [언어] 질문 제목 [create/update]
@@ -23,7 +24,7 @@
 
 2. README.md 파일에 index를 추가한 후 PR을 보내주세요.
     - README 파일에 index 추가 커밋 메시지는 다음과 같이 작성해주세요.
-    - 날짜(년-월-일) [언어] 질문 제목 [index]
+    - 날짜(년-월-일) [기술스택] 질문 제목 [index]
     - `ex) 2022-12-12 [Spring] 인증, 인가의 차이가 무엇인가? [index]`
 
 
