@@ -36,6 +36,7 @@
   - [프론트랑 같이 협업할 때 SSR을 같이 사용하는 경우가 있나요?](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/%ED%94%84%EB%A1%A0%ED%8A%B8%EB%9E%91%20%ED%98%91%EC%97%85%20%ED%95%A0%EB%95%8C%EB%8F%84%20SSR%EC%9D%84%20%EC%93%B0%EB%8A%94%EA%B0%80%3F)
   - [`@Transactional(readOnly=true)` 속성을 꼭 사용해야하나](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/Transactional(readOnly%3Dtrue)%20%EC%86%8D%EC%84%B1%EC%9D%84%20%EA%BC%AD%20%EC%82%AC%EC%9A%A9%ED%95%98%EB%82%98)
   - [Custom 익셉션을 최대한 나누는게 좋은가?](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/Custom%20%EC%9D%B5%EC%85%89%EC%85%98%EC%9D%84%20%EC%B5%9C%EB%8C%80%ED%95%9C%20%EB%82%98%EB%88%84%EB%8A%94%EA%B2%8C%20%EC%A2%8B%EC%9D%80%EA%B0%80%3F)
+  - [Filter, MVC 중 CORS 설정은 어디에?](https://github.com/yanJuicy/Question-Answer-Archive-Hanghae/tree/main/Spring/Filter%2C%20MVC%20%EC%A4%91%20CORS%20%EC%84%A4%EC%A0%95%EC%9D%80%20%EC%96%B4%EB%94%94%EC%97%90%3F)
 
 
 - Java
